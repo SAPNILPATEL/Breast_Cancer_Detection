@@ -1,16 +1,17 @@
 # Breast Cancer Detection
 
 ## Introduction
-Breast cancer is a prevalent form of cancer that affects millions of individuals worldwide. Early detection plays a critical role in improving the chances of successful treatment and survival. In this project, I aim to develop a breast cancer detection model using machine learning techniques. This Markdown file provides an overview of the project, its goals, and the steps involved in the breast cancer detection process.
+Breast cancer is a prevalent form of cancer that affects millions of individuals worldwide. Early detection plays a critical role in improving the chances of successful treatment and survival. In this project, I developed a breast cancer detection model using machine learning techniques. 
 
 ## Goals
 The primary goals of this project are as follows:
 1. Build a machine learning model capable of accurately detecting breast cancer.
 2. Get good accuracy in Breast Cancer Prediction.
-3. Document the process and share the code on GitHub for transparency and reproducibility.
 
 ## Dataset
-For this project, we will use a publicly available breast cancer dataset, such as the **Breast Cancer Wisconsin (Diagnostic) Data Set**. This dataset contains various features extracted from digitized images of fine needle aspirates (FNA) of breast mass. The dataset includes measurements such as mean radius, texture, smoothness, and more, along with the corresponding diagnosis (benign or malignant). This information will serve as the basis for training our model.
+- For this project, we will use a publicly available breast cancer dataset, such as the **Breast Cancer Wisconsin (Diagnostic) Data Set**.
+- This dataset contains various features extracted from digitized images of fine needle aspirates (FNA) of breast mass.
+- The dataset includes measurements such as mean radius, texture, smoothness, and more, along with the corresponding diagnosis (benign or malignant). This information will serve as the basis for training our model.
 
 ## Methodology
 The breast cancer detection process involves the following steps:
