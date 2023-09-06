@@ -17,7 +17,10 @@ The breast cancer detection process involves the following steps:
 1. **Exploratory Data Analysis(EDA)**: First of all we will do EDA.
 2. **Model Development**: Employ machine learning algorithms, such as logistic regression, Decision Tree, and Random Forest.
 3. **Model Evaluation**: Assess the performance of the trained model using appropriate evaluation metrics such as accuracy, precision, recall, and F1 score.
-4. **Documentation**: Document the entire process, including code, models, performance metrics, and visualizations, to facilitate reproducibility and knowledge sharing.
+
+## Result
+
+Achieved outstanding accuracy of **97.36%** by **Random Forest**.
 
 ## Conclusion
 Breast cancer detection is a critical task that can significantly impact patient outcomes. By developing an accurate and reliable machine learning model, we aim to contribute to the early detection and diagnosis of breast cancer. 
